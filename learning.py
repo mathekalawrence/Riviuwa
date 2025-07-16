@@ -8,3 +8,5 @@ print(677*233+536)
 
 def our_function():
     print("Still on Progress")
+
+print("Big dreams for sure begin with the small atomic habits..")
