@@ -5,3 +5,6 @@ def my_function():
     print("steering towards greatness")
 
 print(677*233+536)
+
+def our_function():
+    print("Still on Progress")
