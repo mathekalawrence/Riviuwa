@@ -11,4 +11,4 @@ def our_function():
 
 print("Big dreams for sure begin with the small atomic habits..")
 print('Continous growth and improvement is the core wish of any peer with good will...we for sure need good and reliable friends!!')
-print("Mathematics and atrithmetic operations play a key role in coding")
+print("Mathematics and atrithmetic operations play a key role in coding");
