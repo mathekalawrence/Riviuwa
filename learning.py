@@ -1,4 +1,6 @@
 #Learning never ends
+#Everything you want lies on the other side of fear
+
 
 print("Learning is a continous process")
 
