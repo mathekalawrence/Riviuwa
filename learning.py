@@ -1,4 +1,4 @@
-#Learning never ends
+r#Learning never ends
 #Everything you want lies on the other side of fear
 
 
@@ -12,7 +12,7 @@ def my_function():
 
 print(677*233+536)
 print("Never mind on such..");
-print("")
+print("Learning is and should be progressive")
 
 def our_function():
     print("Still on Progress")
