@@ -12,6 +12,7 @@ def my_function():
 
 print(677*233+536)
 print("Never mind on such..");
+print("")
 
 def our_function():
     print("Still on Progress")
