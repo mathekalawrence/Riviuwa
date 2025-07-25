@@ -17,7 +17,7 @@ def our_function():
     print("Still on Progress")
 
 def here_function():
-    print(')
+    print('Let no one lower your bar')
 
 print("Big dreams for sure begin with the small atomic habits..")
 print('Continous growth and improvement is the core wish of any peer with good will...we for sure need good and reliable friends!!')
